@@ -15,6 +15,8 @@ Normally for univerisity assignments, students are required to build their own w
 
 The webiste normally will contain 3 main parts, which are head, body and footer. 
 
-In HEAD section, there will normally contain meta, title and other external link such as stylesheet (css). 
+In HEAD section, there will normally contain `meta`, `title` and other external link such as stylesheet (css). 
+
 BODY is where the content of the website. 
+
 FOOTER normally have information about authorship, copyright, contact, sitemap and other related documents. 
