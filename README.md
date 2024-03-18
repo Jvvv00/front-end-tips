@@ -15,7 +15,7 @@ Normally for univerisity assignments, students are required to build their own w
 
 The webiste normally will contain 3 main parts, which are head, body and footer. 
 
-In HEAD section, there will normally contain `meta`, `title` and other external link such as stylesheet (css). 
+In HEAD section, there will normally contain `meta`, `title` and other external link such as stylesheet (css). The attribute `lang` is to specified the language of the content, for example `en` is english, `fr` is french. `meta` tag is metadata about the document. 
 
 BODY is where the content of the website. 
 
